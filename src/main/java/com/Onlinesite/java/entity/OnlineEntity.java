@@ -15,4 +15,5 @@ public class OnlineEntity {
     private long batId;
     private String batName;
     private int batPrice;
+    private int price;
 }
